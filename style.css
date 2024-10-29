@@ -2,11 +2,20 @@
 
 li.money {
     background-color: lightpink;
-    text-align: center;
+    font: large;
+    color: red;
 }
 
 .wannabe {
     background-color: lightcyan;
     text-align: center;
     font-weight: bold;
+    color: blue;
+}
+
+#firework {
+    background-color: lightgoldenrodyellow;
+    font-weight: bolder;
+    text-align: center;
+    color: goldenrod;
 }
