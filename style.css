@@ -4,3 +4,9 @@ li.money {
     background-color: lightpink;
     text-align: center;
 }
+
+.wannabe {
+    background-color: lightcyan;
+    text-align: center;
+    font-weight: bold;
+}
