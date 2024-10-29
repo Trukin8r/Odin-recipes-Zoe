@@ -1,9 +1,15 @@
 /* style.css */
 
 li.money {
-    background-color: lightpink;
+    background-color: lavenderblush;
+    font: 900;
+    color: hotpink;
+}
+
+.hit-it {
+    background-color: lavenderblush;
+    color: hotpink;
     font: large;
-    color: red;
 }
 
 .wannabe {
