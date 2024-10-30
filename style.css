@@ -31,3 +31,24 @@ li.money {
     color: violet;
     text-align: center;
 }
+
+#queen {
+    background-color:aqua;
+    color: gold;
+    text-align: center;
+}
+
+#half-alive {
+    background-color:cadetblue;
+    color: gold;
+}
+
+#late-night-lust {
+    background-color: lightgoldenrodyellow;
+    color: gold;
+}
+
+#rave-hell {
+    background-color: pink;
+    color: skyblue;
+}
