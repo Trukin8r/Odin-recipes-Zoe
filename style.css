@@ -24,6 +24,11 @@ li.money {
     color: antiquewhite;
 }
 
+.the-spark {
+    color: goldenrod;
+    text-align: center;
+}
+
 #firework {
     background-color: lightgoldenrodyellow;
     font-weight: bolder;
