@@ -19,6 +19,11 @@ li.money {
     color: blue;
 }
 
+.ken {
+    background-color: goldenrod;
+    color: antiquewhite;
+}
+
 #firework {
     background-color: lightgoldenrodyellow;
     font-weight: bolder;
